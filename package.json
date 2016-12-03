@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bruce-c-liu/scrumTraining/issues"
   },
-  "homepage": "https://github.com/bruce-c-liu/scrumTraining#readme"
+  "homepage": "https://github.com/bruce-c-liu/scrumTraining#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
